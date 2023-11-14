@@ -6,7 +6,7 @@
 // @match          *://*/*
 // @icon           https://www.lovemyfire.com/xfavicon-16x16.png.pagespeed.ic.RKkQq_ZG21.png
 // @namespace      https://github.com/itsshello
-// @supportURL     https://github.com/itsshello
+// @supportURL     https://discord.com/invite/mtk64x9ada
 // ==/UserScript==
 
 function playSound() {
