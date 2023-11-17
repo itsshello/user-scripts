@@ -15,6 +15,7 @@ function playSound() {
     'A': 'https://www.myinstants.com/media/sounds/amogus.mp3',
     'B': '',
     'C': 'https://www.myinstants.com/media/sounds/amogus.mp3',
+    'D': 'https://www.myinstants.com/media/sounds/amogus.mp3',
     // add more characters and more sounds (Note: all characters should be Uppercase)
   };
   // Get the key that was pressed.
