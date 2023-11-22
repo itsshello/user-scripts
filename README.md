@@ -15,7 +15,7 @@ If you dont get the install option once when you click it try reinstalling your 
 ## Decription
 
 This script allows to encode decode massages (Only English for encoding and this encoding for decoding) . 
-*** Ctrl + Shift + E *** to get the popup if enter text comes its used to encode.
+** Ctrl + Shift + E ** to get the popup if enter text comes its used to encode.
 
 ## Draw Backs 
 
